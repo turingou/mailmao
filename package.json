@@ -42,7 +42,7 @@
     "mongoose": "4.0.8",
     "morgan": "1.6.1",
     "multer": "1.0.3",
-    "validator": "^4.0.5",
+    "validator": "^4.0.5"
   },
   "devDependencies": {
     "babel-core": "^5.8.34",
